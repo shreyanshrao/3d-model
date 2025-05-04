@@ -1,0 +1,7 @@
+Firsty i  install all the libraries needed and try  to run them in the python file to see if they are successfully installed.
+then try to use my api key from meshy.ai which is an open library that helps to create 3d models from the text and images.
+how should i see my model for eg their quality and size anter this into the code
+after this enter the prompt which the meshy.ai helps in generating the model and the return id is save into the link2.txt
+meshy.ai takes around 1 min to generate the model so i paused the program for 55 sec 
+
+ After the process is completed it will save the .obj file and a video preveiw of the model in the same file
