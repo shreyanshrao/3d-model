@@ -11,7 +11,7 @@ prompt = input("Enter a promt to generate 3d model: ")
 with open("status.txt",'w') as file:
     file.truncate()
 
-api_key = "msy_D5AOushksHiLEKc1MThWAaBgx2toQY6LjcAU" # Enter your API key here
+api_key = "your api key" # Enter your API key here
 
 payload = {
     "mode": "preview",
